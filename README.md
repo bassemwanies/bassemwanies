@@ -1,51 +1,158 @@
-<div id="header", align="center">
-<img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width="200"/>
-</div>
-<div id="badges", align="center">
-  <a href="https://www.linkedin.com/in/bassem-wanies-7b8402215">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200"/>
-  </a>
-  <h4>
- ========= hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>=========
-</h4>
-</div>
+```md
 <div align="center">
-  <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="450"/>
-</div>
-<div align="center">
-==============================
-  <br>
-</div>
-<div align="center">
-:man_technologist: About Me:<br>
-- I'm an Egyptian Information Technologies Student. 🇪🇬<br>
-- :telescope: I’m working as a Software Engineer and done many projects with different languages.
-</div>
-<br>
-<br>
-<div align="center">
-  :hammer_and_wrench: Languages and Tools:
-  <br>
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-  
+
+<img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width="180"/>
+
+# Hi, I'm Bassem Abdelmonaem Yehia 👋
+
+### CCNA Certified Network Engineer | Security Researcher | Bug Bounty Hunter
+
+<a href="https://www.linkedin.com/in/bassem-wanies-7b8402215">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bassemwanies2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bassemwanies">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+🇪🇬 Based in Giza, Egypt
+
+- 🎓 B.Sc. Computer Science — Cairo University
+- 🌐 CCNA Certified Network Engineer
+- 🔐 Security Researcher & Bug Bounty Hunter
+- 🥇 Ranked **#1 on HPE's Vulnerability Disclosure Program**
+- ☁️ Interested in Networking, Cloud Security, Linux, and Infrastructure
+- 🐧 Linux is my primary operating system
+
+---
+
+## 🛡️ Experience
+
+### Bug Bounty Hunter — HackerOne (2024–Present)
+
+- Reported **20+ valid vulnerabilities**
+- Tested Web, APIs, Cloud Infrastructure, and Authentication Systems
+- Practical experience with:
+  - HTTP Internals
+  - Authentication Protocols
+  - Cloud IAM
+  - Network Attack Surface Analysis
+  - OWASP Top 10
+
+---
+
+# 🚀 Projects
+
+### 100DaysToCyshield
+
+A learning project where vulnerable implementations are built alongside their secure versions while documenting every vulnerability and its mitigation.
+
+**Stack**
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+- PostgreSQL
+
+---
+
+### Together on Trip (TOT)
+
+A full-stack tourism platform for Egypt supporting secure authentication, itinerary planning, guide booking and trip cost estimation.
+
+**Stack**
+
+- Flutter
+- Node.js
+- Express
+- MySQL
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Networking
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,python"/>
+</p>
+
+- TCP/IP
+- Routing & Switching
+- VLANs
+- Subnetting
+- Cisco Packet Tracer
+- Wireshark
+- Nmap
+
+### Cloud
+
+- AWS
+- IAM
+- S3
+
+### Security
+
+- Burp Suite
+- OWASP Top 10
+- Linux
+- Network Security
+
+### Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,flutter,postgres,mysql,python,bash,git,github"/>
+
+</p>
+
+---
+
+## 📜 Certifications
+
+- ✅ CCNA — NTI (2025)
+- ✅ CWSE — Hackviser (2025)
+- ✅ CAPT — Hackviser (2025)
+- ✅ Google — Connect & Protect: Networks and Network Security
+- ✅ AWS Cloud Practitioner Essentials
+- ✅ Linux Practitioner — Cybertalents
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <h3>
-    Contact Me:<br> <br>
-    <a href="https://www.linkedin.com/in/bassem-wanies-7b8402215">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200"/>
-  </a>
-  </h3>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bassemwanies&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bassemwanies&theme=tokyonight"/>
+
 </div>
 
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/bassem-wanies-7b8402215
+- Email: bassemwanies2002@gmail.com
+
+---
+
+<div align="center">
+
+> "Secure networks begin with understanding how they break."
+
+</div>
+```
