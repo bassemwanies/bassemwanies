@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width="180"/>
@@ -155,4 +155,4 @@ A full-stack tourism platform for Egypt supporting secure authentication, itiner
 > "Secure networks begin with understanding how they break."
 
 </div>
-```
+
